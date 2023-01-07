@@ -1,3 +1,4 @@
 are you hungry?
-if yes eat samosa or do your homework
+if yes eat samosa or pizza
+or do your homework
 
