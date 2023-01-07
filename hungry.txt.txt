@@ -3,4 +3,4 @@ if yes eat samosa or pizza or burger
 or do your homework
 
 are u thirsty?
-if yes drink water
+if yes drink water or soda
